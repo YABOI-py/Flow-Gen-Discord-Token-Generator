@@ -5,7 +5,7 @@
 
 ```
 Discord Token gen for devs who need a template
-Made by YABOI & Payflow
+Made by YABOI#7377 & payfloww#9359
 ```
 https://discord.gg/dwncord
 ________________________________
