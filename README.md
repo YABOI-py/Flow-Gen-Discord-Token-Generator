@@ -14,7 +14,13 @@ how to use
 - download the imports
 - run main.py
 ```
-
+```
+built in hcaptcha bypass
+using threads for high speeds
+it is able to generate unlocked tokens
+just be a good dev u skid
+join gg/dwncord for a unlocked gen
+```
 
 
 ![unknown (12)](https://user-images.githubusercontent.com/89107550/180576806-f9a0bb93-22d9-4f24-b999-83e7dead1da3.png)
