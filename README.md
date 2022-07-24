@@ -28,6 +28,5 @@ join gg/dwncord for a unlocked gen
 
 
 ![unknown (14)](https://user-images.githubusercontent.com/89107550/180651011-cdcd1ceb-b059-446a-be84-fffda73c734b.png)
-![Flow Gen](https://user-images.githubusercontent.com/89107550/180579021-4dc4741f-7381-4130-b9e4-808058504bb1.gif)
 
 https://github.com/payfloww
