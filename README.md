@@ -26,7 +26,5 @@ just be a good dev u skid
 join gg/dwncord for a unlocked gen
 ```
 
-<p align="center">
-![unknown (14)](https://user-images.githubusercontent.com/89107550/180651011-cdcd1ceb-b059-446a-be84-fffda73c734b.png)
-</p>
-https://github.com/payfloww
+<p align="center"><p align="center"> <img src="https://user-images.githubusercontent.com/89107550/180651011-cdcd1ceb-b059-446a-be84-fffda73c734b.png" alt="yaboi-py" /> </p>
+
